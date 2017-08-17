@@ -1,0 +1,2 @@
+﻿C# TCP允許多人連線SERVER和重複開啟的Client
+http://jashliao.pixnet.net/blog/post/220821183-c%23-tcp%E5%85%81%E8%A8%B1%E5%A4%9A%E4%BA%BA%E9%80%A3%E7%B7%9Aserver%E5%92%8C%E9%87%8D%E8%A4%87%E9%96%8B%E5%95%9F%E7%9A%84client

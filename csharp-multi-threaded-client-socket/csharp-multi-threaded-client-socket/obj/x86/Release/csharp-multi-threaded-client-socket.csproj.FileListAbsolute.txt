@@ -1,0 +1,14 @@
+C:\Users\RD\AppData\Local\Temporary Projects\csharp-multi-threaded-client-socket\bin\Release\csharp-multi-threaded-client-socket.exe
+C:\Users\RD\AppData\Local\Temporary Projects\csharp-multi-threaded-client-socket\bin\Release\csharp-multi-threaded-client-socket.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\csharp-multi-threaded-client-socket\obj\x86\Release\csharp_multi_threaded_client_socket.Form1.resources
+C:\Users\RD\AppData\Local\Temporary Projects\csharp-multi-threaded-client-socket\obj\x86\Release\csharp_multi_threaded_client_socket.Properties.Resources.resources
+C:\Users\RD\AppData\Local\Temporary Projects\csharp-multi-threaded-client-socket\obj\x86\Release\csharp-multi-threaded-client-socket.csproj.GenerateResource.Cache
+C:\Users\RD\AppData\Local\Temporary Projects\csharp-multi-threaded-client-socket\obj\x86\Release\csharp-multi-threaded-client-socket.exe
+C:\Users\RD\AppData\Local\Temporary Projects\csharp-multi-threaded-client-socket\obj\x86\Release\csharp-multi-threaded-client-socket.pdb
+D:\Visual project code\csharp-multi-threaded-client-socket\csharp-multi-threaded-client-socket\bin\Release\csharp-multi-threaded-client-socket.exe
+D:\Visual project code\csharp-multi-threaded-client-socket\csharp-multi-threaded-client-socket\bin\Release\csharp-multi-threaded-client-socket.pdb
+D:\Visual project code\csharp-multi-threaded-client-socket\csharp-multi-threaded-client-socket\obj\x86\Release\csharp_multi_threaded_client_socket.Form1.resources
+D:\Visual project code\csharp-multi-threaded-client-socket\csharp-multi-threaded-client-socket\obj\x86\Release\csharp_multi_threaded_client_socket.Properties.Resources.resources
+D:\Visual project code\csharp-multi-threaded-client-socket\csharp-multi-threaded-client-socket\obj\x86\Release\csharp-multi-threaded-client-socket.csproj.GenerateResource.Cache
+D:\Visual project code\csharp-multi-threaded-client-socket\csharp-multi-threaded-client-socket\obj\x86\Release\csharp-multi-threaded-client-socket.exe
+D:\Visual project code\csharp-multi-threaded-client-socket\csharp-multi-threaded-client-socket\obj\x86\Release\csharp-multi-threaded-client-socket.pdb

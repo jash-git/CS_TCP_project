@@ -1,0 +1,4 @@
+D:\Visual project code\csharp-multi-threaded-server-socket\csharp-multi-threaded-server-socket\bin\Release\csharp-multi-threaded-server-socket.exe
+D:\Visual project code\csharp-multi-threaded-server-socket\csharp-multi-threaded-server-socket\bin\Release\csharp-multi-threaded-server-socket.pdb
+D:\Visual project code\csharp-multi-threaded-server-socket\csharp-multi-threaded-server-socket\obj\x86\Release\csharp-multi-threaded-server-socket.exe
+D:\Visual project code\csharp-multi-threaded-server-socket\csharp-multi-threaded-server-socket\obj\x86\Release\csharp-multi-threaded-server-socket.pdb
